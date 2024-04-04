@@ -1,2 +1,2 @@
-# UdemyTrillo
+# TrilloLandingPage
 Flexbox practice
